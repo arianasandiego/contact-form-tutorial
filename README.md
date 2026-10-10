@@ -20,3 +20,6 @@ Followed 100 HTML CSS JavaScript Projects for Beginners in 2026 by Codesistency
 - Button
 - Variables
 - Responsive Design
+
+cdnjs font-awesome Library:
+https://cdnjs.com/libraries/font-awesome
